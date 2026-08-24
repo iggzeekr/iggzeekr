@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="exec-0b037ace-fadb-4edc-bc80-6362d31463b7.png" alt="Galaksi bannerı">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Ezgiii+%F0%9F%A7%9A%E2%80%8D%E2%99%80%EF%B8%8F;Building+my+own+galaxy%2C;one+line+of+code+at+a+time.+%E2%9C%A8"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Ezgiii+%F0%9F%A7%9A%E2%80%8D%E2%99%80%EF%B8%8F;Building+my+own+galaxy;one+line+of+code+at+a+time.+%E2%9C%A8"
     alt="Hi, I'm Ezgiii building my own galaxy one line of code at a time"
   />
 </div>
