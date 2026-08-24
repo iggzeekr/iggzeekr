@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+iggzeekr+%F0%9F%91%8B;Building+my+own+galaxy%2C;one+line+of+code+at+a+time.+%E2%9C%A8"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Ezgiii+%F0%9F%91%8B;Building+my+own+galaxy%2C;one+line+of+code+at+a+time.+%E2%9C%A8"
     alt="Hi, I'm Ezgiii building my own galaxy one line of code at a time"
   />
 </div>
