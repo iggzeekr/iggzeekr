@@ -1,5 +1,9 @@
-## Hi there 👋
+<div align="center">
+  <img width="100%" src="galaxy-profile-banner.png" alt="Galaksi bannerı">
 
+  <h1>✨ Hİ There ✨</h1>
+  <p>🌌 Fikirleri koda dönüştürüyorum.</p>
+</div>
 <!--
 **iggzeekr/iggzeekr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
