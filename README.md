@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="heycutiee.png" alt="">
+  <img width="100%" src="heyycutiee.png" alt="">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Ezgiii+%F0%9F%A7%9A%E2%80%8D%E2%99%80%EF%B8%8F;Building+my+own+galaxy;one+line+of+code+at+a+time.+%E2%9C%A8"
     alt="Hi, I'm Ezgiii building my own galaxy one line of code at a time"
